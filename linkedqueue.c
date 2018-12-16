@@ -1,3 +1,32 @@
+/*
+I lift to you
+My bowl of kisses,
+And through the temple’s
+Blue recesses
+Cry out to you
+In wild caresses.
+
+And to my lips’
+Bright crimson rim
+The passion slips,
+And down my slim
+White body drips
+The shining hymn.
+
+And still before
+The altar I
+Exult the bowl
+Brimful, and cry
+To you to stoop
+And drink, Most High.
+
+Oh drink me up
+That I may be
+Within your cup
+Like a mystery,
+Like wine that is still
+In ecstasy.
+*/
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct element
